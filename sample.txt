@@ -1,8 +1,3 @@
-<pre>
-
-Patch Corrections For:  FlexPLM 11.1 M020 on PDMLink 11.1 M020.
-
-
 #####################  Patch 1  #####################
 
 SPR: 8039004 - Refactor changes done against SPR#7474281 and SPR#7941963
