@@ -1,5 +1,5 @@
 Begining of the file
-along with all patches
+along with all the patches
 
 #####################  Patch 1  #####################
 
