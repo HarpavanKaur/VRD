@@ -1,3 +1,5 @@
+Begining of the file
+
 #####################  Patch 1  #####################
 
 SPR: 8039004 - Refactor changes done against SPR#7474281 and SPR#7941963
